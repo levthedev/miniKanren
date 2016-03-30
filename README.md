@@ -14,8 +14,10 @@ an implementation of miniKanren in Ruby
 [X] conde
 
 ### TODO
-[ ] additional constraints (symbolor, numbero, =/=)
+[  ] complete stream for non-conde goals
 
-[ ] more testing
+[  ] additional constraints (symbolor, numbero, =/=)
 
-[ ] sample program (path finder? sudoku solver? boolean satisfiability?)
+[  ] more testing
+
+[  ] sample program (path finder? sudoku solver? boolean satisfiability?)
