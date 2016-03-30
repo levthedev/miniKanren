@@ -6,11 +6,16 @@ an implementation of miniKanren in Ruby
 
 ### features
 X fresh
+
 X run
+
 X union
+
 X conde
 
 ### TODO
 additional constraints (symbolor, numbero, =/=)
+
 more testing
+
 sample program (path finder? sudoku solver? boolean satisfiability?)
