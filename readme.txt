@@ -1,6 +1,6 @@
-fresh(*vars)
-run(limit, goal, rules)
-union(x, y) (==)
-conde (or)
+X fresh(*vars)
+X run(limit, goal, rules)
+X union(x, y) (==)
+X conde (or)
 
 additional constraints - symbolor, numbero, =/=
